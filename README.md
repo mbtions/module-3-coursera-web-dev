@@ -1,4 +1,7 @@
 # module-3-coursera-web-dev
 
-Mobile Preview
-![mobile preview](https://github.com/mbtions/module-3-coursera-web-dev/blob/master/video-mobile-view.mp4)
+### Mobile Preview
+
+<video width="320" height="800" controls>
+  <source src="./video-mobile-view.mp4" type="video/mp4">
+</video>
