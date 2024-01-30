@@ -61,15 +61,17 @@
             align-items: center;
         }
         
-        @media only screen and (min-width: 768px) {
-            .sizedbox {
-                display: none;
-            }
+        @media only screen and (min-width: 480px) {
             #top-nav, .top-button {
                 display: none;
             }
         }
-        @media only screen and (min-width: 992px) {
+        @media only screen and (min-width: 768px) {
+            .sizedbox {
+                display: none;
+            }
+        }
+        @media only screen and (min-width: 1366px) {
             .row {
                 display: flex;
                 justify-content: space-between;
